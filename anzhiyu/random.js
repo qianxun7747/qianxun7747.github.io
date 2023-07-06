@@ -1,0 +1,1 @@
+var posts=["2023/07/05/hello-world/","2023/07/05/热血无赖“心得”/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
