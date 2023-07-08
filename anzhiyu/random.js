@@ -1,1 +1,1 @@
-var posts=["2023/07/05/热血无赖“心得”/","2023/07/06/如何给博客加上小空调/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/07/06/如何给博客加上小空调/","2023/07/05/热血无赖“心得”/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
