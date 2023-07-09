@@ -1,0 +1,8 @@
+@font-face {
+  /* 指定字体的名字 */
+  font-family: "ziti";
+  /* 服务器中字体的路径 */
+  src: url("/themes/anzhiyu/fonts/ziti.ttf") format("truetype");
+}
+
+font-family: ziti;
