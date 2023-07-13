@@ -8870,7 +8870,7 @@ h1.page-title + .tag-cloud-list {
   height: 60px;
   background: 0;
 }
-#page-header.not-top-img #nav #blog_name a,
+#page-header.not-top-img #nav #none_space a,
 #page-header.not-top-img #nav .mask-name-container a,
 #page-header.not-top-img #nav #menus a,
 #page-header.not-top-img #nav #nav-right .nav-button a,
@@ -8902,7 +8902,7 @@ h1.page-title + .tag-cloud-list {
   -ms-transition: background 0.3s ease-in-out, color 0s ease-in-out;
   transition: background 0.3s ease-in-out, color 0s ease-in-out;
 }
-#page-header.nav-fixed #nav #blog_name a,
+#page-header.nav-fixed #nav #none_space a,
 #page-header.nav-fixed #nav .mask-name-container a,
 #page-header.nav-fixed #nav #menus a,
 #page-header.nav-fixed #nav #nav-right .nav-button a,
@@ -9200,14 +9200,14 @@ h1.page-title + .tag-cloud-list {
 #nav #toggle-menu:hover {
   color: var(--white);
 }
-#nav #blog_name a,
+#nav #none_space a,
 #nav .mask-name-container a,
 #nav #menus a,
 #nav #nav-right .nav-button a,
 #nav #nav-right #toggle-menu a {
   color: var(--light-grey);
 }
-#nav #blog_name a:hover,
+#nav #none_space a:hover,
 #nav .mask-name-container a:hover,
 #nav #menus a:hover,
 #nav #nav-right .nav-button a:hover,
